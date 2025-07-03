@@ -101,3 +101,21 @@ So if you're looking for someone who brings ideas to life, learns relentlessly, 
 > "Stay hungry, stay foolish." — Steve Jobs
 
 Let’s build the future, one project at a time.
+
+---
+
+### 🗂️ What You’ll Find Here
+
+- 🧠 Flutter apps from idea to polish
+- 💻 Web projects with clean, responsive UIs
+- 📂 Full-stack prototypes solving real problems
+- 🚀 Exciting upcoming builds documented with care
+
+---
+### 📄 Resume
+
+📄 [View My Resume](https://drive.google.com/file/d/1mpmsrFX2o3xSdgJAwH1n0gXLCwVG3RTj/view?usp=drivesdk) — Always open to full-time, internship, or collaboration opportunities!
+
+
+
+
