@@ -53,6 +53,22 @@ It's **strategy meets cricket** — and it's as thrilling as the real thing. �
 
 ---
 
+### 🚀 Featured Projects
+
+🌐 [**COVID-19 Awareness Web App**](https://github.com/yourusername/covid19-awareness)  
+Built with HTML, CSS, JS – Real-time U.S. COVID stats, prevention tips, and responsive design.
+
+🎮 [**Tic-Tac-Toe Web Game**](https://github.com/yourusername/Tic-Tac-Toe)  
+Responsive and clean multiplayer game, with win detection, reset flow, and mobile support.
+
+🛒 [**Blinkit Clone (Flutter)**](https://github.com/yourusername/Blinkit_Clone)  
+Modern shopping app UI inspired by Blinkit – fast, scalable, and pixel-perfect in Flutter.
+
+💰 [**Personal Finance Manager (In Progress)**](https://github.com/yourusername/FinanceApp)  
+Inspired by a Figma design, this Flutter app tracks expenses, transactions, and analysis.
+
+---
+
 ### 🧱 Tech Stack
 
 - **Languages**: Dart, JavaScript, Python, Java
