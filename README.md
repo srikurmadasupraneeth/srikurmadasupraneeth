@@ -54,18 +54,17 @@ It's **strategy meets cricket** — and it's as thrilling as the real thing. �
 ---
 
 ### 🚀 Featured Projects
+💰 [**Personal Finance Manager (In Progress)**](https://github.com/srikurmadasupraneeth/Finwise)  
+Inspired by a Figma design, this Flutter app tracks expenses, transactions, and analysis.
 
-🌐 [**COVID-19 Awareness Web App**](https://github.com/yourusername/covid19-awareness)  
+🌐 [**Automated_Paper_Evalution**](https://github.com/srikurmadasupraneeth/Automated_Paper_Evalution)  
+Automated Paper Evaluation Portal is a responsive online exam system with fullscreen enforcement, auto-save, real-time progress tracking, and PDF report generation. Built using HTML, CSS, JavaScript, and jsPDF.
+
+🌐 [**COVID-19 Awareness Web App**](https://github.com/srikurmadasupraneeth/Covid19_Awarness)  
 Built with HTML, CSS, JS – Real-time U.S. COVID stats, prevention tips, and responsive design.
 
-🎮 [**Tic-Tac-Toe Web Game**](https://github.com/yourusername/Tic-Tac-Toe)  
-Responsive and clean multiplayer game, with win detection, reset flow, and mobile support.
-
-🛒 [**Blinkit Clone (Flutter)**](https://github.com/yourusername/Blinkit_Clone)  
-Modern shopping app UI inspired by Blinkit – fast, scalable, and pixel-perfect in Flutter.
-
-💰 [**Personal Finance Manager (In Progress)**](https://github.com/yourusername/FinanceApp)  
-Inspired by a Figma design, this Flutter app tracks expenses, transactions, and analysis.
+🎮 [**Chess Board**](https://github.com/srikurmadasupraneeth/ChessBoard)  
+This project demonstrates the use of Python’s Turtle graphics library to create a black-and-white checkerboard pattern. It showcases how Python can be used for visual tasks like drawing and filling shapes with colors, helping understand the automation of graphical processes.
 
 ---
 
