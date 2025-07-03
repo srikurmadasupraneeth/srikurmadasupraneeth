@@ -36,7 +36,7 @@ This is **more than rent collection** — it’s a smart PG ecosystem.
 My app will decode your configuration and guide you step-by-step until you solve it. It’s like having a **personal cube coach in your pocket.**
 
 - Targeted for: **Speedcubers, Beginners, Curious Minds**
-- Built using: **Flutter + TensorFlow Lite**
+- Built using:  **React, Node.js, Express.js, MySQL / MongoDB**
 
 ---
 
