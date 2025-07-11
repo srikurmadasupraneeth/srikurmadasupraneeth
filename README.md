@@ -114,7 +114,7 @@ Let’s build the future, one project at a time.
 ---
 ### 📄 Resume
 
-📄 [View My Resume](https://drive.google.com/file/d/1mpmsrFX2o3xSdgJAwH1n0gXLCwVG3RTj/view?usp=drivesdk) — Always open to full-time, internship, or collaboration opportunities!
+📄 [View My Resume](https://drive.google.com/file/d/18G2Rdqy_WWvvZS74pbijMoX_nlMHnnS5/view?usp=drivesdk) — Always open to full-time, internship, or collaboration opportunities!
 
 
 
