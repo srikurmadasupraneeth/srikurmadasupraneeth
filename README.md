@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Praneeth 🌟</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Flutter Enthusiast | Tech Explorer | Dreaming Big 🌟</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Tech Explorer | Dreaming Big 🌟</h3>
 
 --- 
 
