@@ -54,17 +54,14 @@ It's **strategy meets cricket** — and it's as thrilling as the real thing. �
 ---
 
 ### 🚀 Featured Projects
-💰 [**Personal Finance Manager (In Progress)**](https://github.com/srikurmadasupraneeth/Finwise)  
-Inspired by a Figma design, this Flutter app tracks expenses, transactions, and analysis.
+💰 [**Smart HelpDesk**](https://github.com/srikurmadasupraneeth/Smart_Helpdesk)
+An end-to-end web application where users can raise support tickets and an AI agent triages them by classifying the issue, fetching relevant knowledge-base articles, drafting a reply, and either auto-resolving or assigning it to a human support agent.
 
-🌐 [**Automated_Paper_Evalution**](https://github.com/srikurmadasupraneeth/Automated_Paper_Evalution)  
-Automated Paper Evaluation Portal is a responsive online exam system with fullscreen enforcement, auto-save, real-time progress tracking, and PDF report generation. Built using HTML, CSS, JavaScript, and jsPDF.
+🌐 [**AI Meeing Summarizer**](https://github.com/srikurmadasupraneeth/AI_Meeting_Summarizer)  
+This is a full-stack web application that leverages a large language model to summarize meeting transcripts and share the results via email. It's built with a simple, functional design, focusing on core features: summarizing, editing, and sharing.
 
-🌐 [**COVID-19 Awareness Web App**](https://github.com/srikurmadasupraneeth/Covid19_Awarness)  
-Built with HTML, CSS, JS – Real-time U.S. COVID stats, prevention tips, and responsive design.
-
-🎮 [**Chess Board**](https://github.com/srikurmadasupraneeth/ChessBoard)  
-This project demonstrates the use of Python’s Turtle graphics library to create a black-and-white checkerboard pattern. It showcases how Python can be used for visual tasks like drawing and filling shapes with colors, helping understand the automation of graphical processes.
+🌐 [**LivesitterVideoStreaming**](https://github.com/srikurmadasupraneeth/LivesitterVideoStreaming)  
+A web application that allows users to watch a livestream video from an RTSP or HLS URL and manage custom overlays (text or logos/images) in real time. It supports CRUD operations for overlays and provides live preview functionality.
 
 ---
 
@@ -72,7 +69,7 @@ This project demonstrates the use of Python’s Turtle graphics library to creat
 
 - **Languages**: Dart, JavaScript, Python, Java
 - **Frameworks**: Flutter, React, Node.js, Express.js
-- **Databases**: MongoDB, MySQL, Firebase
+- **Databases**: MongoDB, MySQL
 - **Tools**: Git, Figma, Postman, VS Code, GitHub
 
 ---
@@ -106,7 +103,6 @@ Let’s build the future, one project at a time.
 
 ### 🗂️ What You’ll Find Here
 
-- 🧠 Flutter apps from idea to polish
 - 💻 Web projects with clean, responsive UIs
 - 📂 Full-stack prototypes solving real problems
 - 🚀 Exciting upcoming builds documented with care
