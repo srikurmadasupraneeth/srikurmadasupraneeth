@@ -67,8 +67,8 @@ A web application that allows users to watch a livestream video from an RTSP or 
 
 ### 🧱 Tech Stack
 
-- **Languages**: Dart, JavaScript, Python, Java
-- **Frameworks**: Flutter, React, Node.js, Express.js
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, Figma, Postman, VS Code, GitHub
 
